@@ -4,6 +4,10 @@ Orion AI is a modern AI-powered chatbot built with **React.js**, **Tailwind CSS*
 
 ---
 
+## 🌐 Live Demo
+
+**🔗 Live Website:** [https://orion-ai-model.netlify.app/]
+
 ## ✨ Features
 
 * 🤖 AI-powered responses using Google Gemini
